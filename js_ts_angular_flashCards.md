@@ -118,6 +118,7 @@ A variable that can hold **more than one type** using the `|` symbol.
 
 ### Flashcard 6
 **Q:** What is a generic in TypeScript?
+
 **A:**
 A generic allows you to write reusable components that work with any data type.
 
